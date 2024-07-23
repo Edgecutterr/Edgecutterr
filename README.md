@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Edgecutterr
 - 👀 I’m interested in python and exploration of linux community
-- 🌱 I’m currently learning linux terminal and python
+- 🌱 I’m currently learning  python
 - 💞️ I would love to learn new things about the world of computers
 - 📫 How to reach me mail- thisisedgecutterr@proton.me
-- backup email-iamasecretwarrior@gmail.com
+-
 
 <!---
 Edgecutterr/Edgecutterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
